@@ -24,6 +24,11 @@ header {
     color: white;
 }
 
+header h1, 
+section h2 {
+    font-weight: normal;
+}
+
 header nav li {
     display: inline;
     margin-left: 16px;
